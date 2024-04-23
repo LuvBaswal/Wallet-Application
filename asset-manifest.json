@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Wallet-Application/static/css/main.d617d326.css",
-    "main.js": "/Wallet-Application/static/js/main.1a34c396.js",
+    "main.css": "/Wallet-Application/static/css/main.7812e4c4.css",
+    "main.js": "/Wallet-Application/static/js/main.8efff70e.js",
     "static/js/453.3d13382d.chunk.js": "/Wallet-Application/static/js/453.3d13382d.chunk.js",
     "static/media/rupee.png": "/Wallet-Application/static/media/rupee.47a737cbfb541d824101.png",
     "static/media/receive.png": "/Wallet-Application/static/media/receive.b567f394975d0cb3eefd.png",
     "static/media/send.png": "/Wallet-Application/static/media/send.b567f394975d0cb3eefd.png",
     "index.html": "/Wallet-Application/index.html",
-    "main.d617d326.css.map": "/Wallet-Application/static/css/main.d617d326.css.map",
-    "main.1a34c396.js.map": "/Wallet-Application/static/js/main.1a34c396.js.map",
+    "main.7812e4c4.css.map": "/Wallet-Application/static/css/main.7812e4c4.css.map",
+    "main.8efff70e.js.map": "/Wallet-Application/static/js/main.8efff70e.js.map",
     "453.3d13382d.chunk.js.map": "/Wallet-Application/static/js/453.3d13382d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d617d326.css",
-    "static/js/main.1a34c396.js"
+    "static/css/main.7812e4c4.css",
+    "static/js/main.8efff70e.js"
   ]
 }
